@@ -105,9 +105,11 @@ color: rgb(142, 175, 206);
 
 th, td, tr{
  background-color: #344453;
+ width: 960px;
 }
 th{
       border: 2px solid black;
+      width: 960px
 }
 table{
   background-color: #344453;
